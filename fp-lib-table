@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Xiao-PinHeader_2.54mm")(type "KiCad")(uri "${KIPRJMOD}/lib/Xiao-PinHeader_2.54mm.pretty")(options "")(descr ""))
+)
