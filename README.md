@@ -1,4 +1,4 @@
-# Thing Plus/Feather Project Template
+# Seeeduino XIAO Project Template
 
 <p align="center">
   <img src="meta/brd.png" alt="A mostly unpopulated PCB with a few connectors">
